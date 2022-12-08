@@ -1,8 +1,8 @@
 ## Hello, I'm Tanjeeb, a self-taught programmer :wave:
 
 <b>I'm currently:<b>
-- :gear: Working as an Engineering Intern @Siemens
-- :mortar_board: Studing Mechanical Engineering @CityUHK
+- :gear: Working as an Engineering Intern <a href="https://www.siemens-home.bsh-group.com.hk/en/" target="_blank">@Siemens</a>
+- :mortar_board: Studing Mechanical Engineering <a href="https://www.cityu.edu.hk/" target="_blank">@CityUHK</a>
 - :keyboard: Looking to gain expertise in C++ programming
 
 
