@@ -2,7 +2,7 @@
 
 <b>I'm currently:<b>
 - :gear: Working as an Engineering Intern <a href="https://www.siemens-home.bsh-group.com.hk/en/" target="_blank">@Siemens</a>
-- :mortar_board: Studing Mechanical Engineering <a href="https://www.cityu.edu.hk/" target="_blank">@CityUHK</a>
+- :mortar_board: Studying Financial Computing <a href="https://www.hku.hk/" target="_blank">@HKU</a>
 - :chart_with_upwards_trend: Learning to write low latency C++ programs for HFT
 
 
