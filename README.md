@@ -1,7 +1,6 @@
 ## Hello, I'm Tanjeeb, a self-taught programmer :wave:
 
 <b>I'm currently:<b>
-- :gear: A Mechanical Engineering Graduate from <a href="https://www.cityu.edu.hk/" target="_blank">CityU HK</a>
 - :mortar_board: Studying Financial Computing <a href="https://www.hku.hk/" target="_blank">@HKU</a>
 - :chart_with_upwards_trend: Learning to write low latency C++ programs for HFT
 
