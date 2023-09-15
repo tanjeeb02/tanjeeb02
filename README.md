@@ -2,7 +2,7 @@
 
 <b>I'm currently:<b>
 - :mortar_board: Studying Financial Computing <a href="https://www.hku.hk/" target="_blank">@HKU</a>
-- :chart_with_upwards_trend: Learning to write low latency C++ programs for HFT
+- :chart_with_upwards_trend: Looking to learn low latency C++ programming for HFT
 
 
 Also, I love listening to music and exploring different genres. Feel free to share your spotify playlists! :musical_note:
