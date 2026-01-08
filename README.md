@@ -1,7 +1,7 @@
 ## Hello, I'm Tanjeeb, a self-taught programmer :wave:
 
 <b>I'm currently:<b>
-- :mortar_board: Studying Financial Computing <a href="https://www.hku.hk/" target="_blank">@HKU</a>
+- :mortar_board: MSc Financial Computing <a href="https://www.hku.hk/" target="_blank">@HKU</a>
 - :chart_with_upwards_trend: Looking to learn low latency C++ programming for HFT
 
 
