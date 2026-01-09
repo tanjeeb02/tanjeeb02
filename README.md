@@ -1,4 +1,4 @@
-## Hello, I'm Tj, a self-taught programmer :wave:
+## Hello, I'm Tj :wave:
 
 <b>I'm currently:<b>
 - :mortar_board: MSc Financial Computing <a href="https://www.hku.hk/" target="_blank">@HKU</a>
